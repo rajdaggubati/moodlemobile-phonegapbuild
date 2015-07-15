@@ -1,7 +1,5 @@
 {
     "appsettings": "App settings",
-    "help": "Help",
-    "logout": "Change site",
-    "mycourses": "My courses",
-    "website": "Website"
+    "mycourses": "My Programs",
+    
 }
